@@ -54,4 +54,4 @@ O objetivo foi aplicar boas práticas de **design de dashboards** e transformar 
 
 ## 👨‍💻 Autor
 [Alex Sanches](https://www.linkedin.com/in/alexsanches-dados)  
-*Analista de Dados em transição de carreira | Excel • SQL • Power BI*
+
