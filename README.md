@@ -1,9 +1,7 @@
-# Dashboard-Ecommerce
-Dashboard de E-commerce no Power BI | Protótipo no Figma e análise final com indicadores de faturamento, lucro e vendas
+
 # 🛒 Dashboard E-commerce
 
-## 📌 Descrição
-Este projeto apresenta um **Dashboard de E-commerce** desenvolvido no **Power BI**, a partir de uma **prototipação no Figma**.  
+## 📌 Descrição  
 
 O objetivo foi aplicar boas práticas de **design de dashboards** e transformar a ideia inicial em um produto final no Power BI, com foco em **faturamento, lucro, ticket médio, vendas e análise por categoria, região e produto**.
 
